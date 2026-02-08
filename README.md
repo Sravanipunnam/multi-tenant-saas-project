@@ -9,14 +9,6 @@ The platform demonstrates **multi-tenancy, role-based access control (RBAC), sec
 
 ---
 
-## Target Audience
-
-- SaaS product developers
-- Backend and full-stack engineers
-- Companies building multi-tenant applications
-- Evaluators reviewing production-ready SaaS architectures
-
----
 
 ## Features
 
